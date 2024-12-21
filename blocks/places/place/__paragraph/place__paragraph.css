@@ -1,0 +1,14 @@
+.place__paragraph {
+  font-size: 18px;
+  line-height: 1.63;
+  padding: 0;
+  color: white;
+  margin-bottom: 26px;
+  margin-top: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .place__paragraph {
+    height: auto;
+  }
+}

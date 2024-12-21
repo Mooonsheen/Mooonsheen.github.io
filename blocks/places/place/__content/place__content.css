@@ -1,0 +1,13 @@
+.place__content {
+  padding-top: 34px;
+}
+
+.place__content_spesial {
+  padding-top: 106px;
+}
+
+@media screen and (max-width: 768px) {
+  .place__content {
+    padding: 0 16px;
+  }
+}
